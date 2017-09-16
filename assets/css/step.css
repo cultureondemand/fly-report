@@ -601,9 +601,9 @@ h5 {
     "Geneva",
     "Arial",
     sans-serif;
-padding-bottom: .3em;
+/* padding-bottom: .3em; */
 font-weight: 800;
-    border-bottom: thin solid;
+/*     border-bottom: thin solid; */
 margin-bottom:0;
 margin-top:.6em;
 top:0;
