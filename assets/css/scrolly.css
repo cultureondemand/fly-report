@@ -1716,7 +1716,7 @@ margin: auto;
 }
 
 #covertools {
-  top: 0;left: 0;display: inline-block;position: absolute; z-index: 9999999999999999999;
+  top: 0;right: 0;display: inline-block;position: absolute; z-index: 9999999999999999999;
 }
 
 
