@@ -78,7 +78,7 @@ z-index: 99999999999;
  max-width: 800px;  
  min-width: 260px;  
   width:90%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -110,7 +110,7 @@ z-index: 99999999999;
   max-width: 800px;  
   min-width: 260px;  
   width:75%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -139,7 +139,7 @@ color:#fff;
    max-width: 800px; 
   min-width: 260px;  
   width:90%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -171,7 +171,7 @@ z-index: 99999999999;
   max-width: 800px;  
   min-width: 260px;  
   width:90%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -199,7 +199,7 @@ z-index: 99999999999;
   max-width: 800px;  
    min-width: 260px;  
  width:90%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -228,7 +228,7 @@ z-index: 99999999999;
   max-width: 800px;  
   min-width: 280px;  
   width:75%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -258,7 +258,7 @@ color:#fff;
   max-width: 800px;  
   min-width: 280px;  
   width:75%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -289,7 +289,7 @@ color:#fff;
   max-width: 800px;  
   min-width: 280px;  
   width:75%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -319,7 +319,7 @@ z-index: 99999999999;
   max-width: 800px;  
   min-width: 280px;  
   width:90%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -348,7 +348,7 @@ z-index: 99999999999;
   max-width: 800px;  
   min-width: 280px;  
   width:90%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -377,7 +377,7 @@ z-index: 99999999999;
   max-width: 800px;  
   min-width: 280px;  
   width:60%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -406,7 +406,7 @@ z-index: 99999999999;
   max-width: 800px;  
   min-width: 280px;  
   width:60%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -435,7 +435,7 @@ z-index: 99999999999;
  max-width: 800px;  
   min-width: 280px;  
   width:70%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -464,7 +464,7 @@ z-index: 99999999999;
  max-width: 800px;  
   min-width: 280px;  
   width:80%;
-  margin: 20vh 0 0 42px;
+  margin: 40vh 0 0 42px;
     padding:18px;
 position: relative;
 z-index: 99999999999;
@@ -1050,38 +1050,28 @@ display: none;
  
 
 #logoOpener {
-
+ 
     background-color: #fff;
-
-top: 0;
-left: 0;
-  text-transform: none !important;
-  color: #3871C1;
- position: fixed;
-
-    font-family: "MyriadPro-Bold", "HelveticaNeue",
-    
-      "Helvetica Neue",
-      'TeXGyreHerosRegular',
-      "Helvetica",
-      "Tahoma",
-      "Geneva",
-      "Arial",
-      sans-serif;
-  font-weight: 400;
-  margin-bottom: 0;
-  margin-top: 0;
-  padding: .4em;
-  text-align: center;
-  line-height: 1em;
-  max-width:300px;
-   width: 55%;
-   z-index: 9999999999999;
-        -webkit-border-top-right-radius: 36px;
+    top: 0;
+    left: 0;
+    text-transform: none !important;
+    /* color: #3871C1; */
+    position: fixed;
+    font-family: "MyriadPro-Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+    /* padding: .4em; */
+    text-align: center;
+    line-height: 1em;
+    /* max-width: 350px; */
+    width: 320px;
+    z-index: 9999999999999;
+    -webkit-border-top-right-radius: 36px;
     -webkit-border-bottom-left-radius: 36px;
     -moz-border-top-right-radius: 36px;
-    -moz-border-bottom-left-radius: 36px;  
-
+    -moz-border-bottom-left-radius: 36px;
+    overflow: hidden;
  }
 
 
@@ -1095,36 +1085,26 @@ left: 0;
 #logoOpener {
 
     background-color: #fff;
-
-top: 0;
-left: 0;
-  text-transform: none !important;
-  color: #3871C1;
- position: fixed;
-
-    font-family: "MyriadPro-Bold", "HelveticaNeue",
-    
-      "Helvetica Neue",
-      'TeXGyreHerosRegular',
-      "Helvetica",
-      "Tahoma",
-      "Geneva",
-      "Arial",
-      sans-serif;
-  font-weight: 400;
-  margin-bottom: 0;
-  margin-top: 0;
-  padding: .4em;
-  text-align: center;
-  line-height: 1em;
-  max-width:400px;
-   width: 45%;
-   z-index: 9999999999999;
-        -webkit-border-top-right-radius: 36px;
+    top: 0;
+    left: 0;
+    text-transform: none !important;
+    /* color: #3871C1; */
+    position: fixed;
+    font-family: "MyriadPro-Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+    /* padding: .4em; */
+    text-align: center;
+    line-height: 1em;
+    /* max-width: 350px; */
+    width: 320px;
+    z-index: 9999999999999;
+    -webkit-border-top-right-radius: 36px;
     -webkit-border-bottom-left-radius: 36px;
     -moz-border-top-right-radius: 36px;
-    -moz-border-bottom-left-radius: 36px;  
-
+    -moz-border-bottom-left-radius: 36px;
+    overflow: hidden;
  }
 
 
@@ -1137,41 +1117,44 @@ left: 0;
 #logoOpener {
 
     background-color: #fff;
-
-top: 0;
-left: 0;
-  text-transform: none !important;
-  color: #3871C1;
- position: fixed;
-
-    font-family: "MyriadPro-Bold", "HelveticaNeue",
-    
-      "Helvetica Neue",
-      'TeXGyreHerosRegular',
-      "Helvetica",
-      "Tahoma",
-      "Geneva",
-      "Arial",
-      sans-serif;
-  font-weight: 400;
-  margin-bottom: 0;
-  margin-top: 0;
-  padding: .4em;
-  text-align: center;
-  line-height: 1em;
-  max-width:350px;
-   width: 33%;
-   z-index: 9999999999999;
-        -webkit-border-top-right-radius: 36px;
+    top: 0;
+    left: 0;
+    text-transform: none !important;
+    /* color: #3871C1; */
+    position: fixed;
+    font-family: "MyriadPro-Bold", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 400;
+    margin-bottom: 0;
+    margin-top: 0;
+    /* padding: .4em; */
+    text-align: center;
+    line-height: 1em;
+    /* max-width: 350px; */
+    width: 320px;
+    z-index: 9999999999999;
+    -webkit-border-top-right-radius: 36px;
     -webkit-border-bottom-left-radius: 36px;
     -moz-border-top-right-radius: 36px;
-    -moz-border-bottom-left-radius: 36px;  
-
+    -moz-border-bottom-left-radius: 36px;
+    overflow: hidden;
  }
 
 }
 
 
+
+#logoOpener img {
+    margin-top: 1em;
+    margin-bottom: .6em;
+    width: 240px;
+}
+
+.introimg {
+
+padding: .3em;
+
+
+}
 
 
 .tagblues {
@@ -1191,20 +1174,4 @@ left: 0;
 
 }
 
-
-
-
-
-#logoOpener img {
-  margin-top: 1em;
-  margin-bottom: .6em;
-
-}
-
-.introimg {
-
-padding: .3em;
-
-
-}
 
