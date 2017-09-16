@@ -735,19 +735,6 @@ polyline {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
 
@@ -777,18 +764,11 @@ max-width: 450px;
 background-color:transparent;
   margin: 0;
   padding:0;
-  color: #F78E1E;
- 
-       text-shadow: .5px .5px .5px #555;
+  color: #f8f6f2;
+ text-shadow: .5px .5px .5px #555;
 
 
 }
-
-
-
-
-
-
 
 }
 
@@ -804,7 +784,7 @@ background-color:transparent;
   width: 83%;
   line-height: normal;
   left: 41px;
-max-width: 350px;
+max-width: 450px;
   text-transform: uppercase;
 
   font-family: "MyriadPro-Bold","HelveticaNeueLight",
@@ -823,17 +803,11 @@ max-width: 350px;
 background-color:transparent;
   margin: 0;
   padding:0;
-  color: #F78E1E;
- 
-       text-shadow: .5px .5px .5px #333;
+  color: #f8f6f2;
+ text-shadow: .5px .5px .5px #333;
 
 
 }
-
-
-
-
-
 
 }
 
@@ -849,9 +823,8 @@ background-color:transparent;
   width: 83%;
   line-height: normal;
   left: 41px;
-max-width: 450px;
+max-width: 850px;
   text-transform: uppercase;
-
   font-family: "MyriadPro-Bold","HelveticaNeue",
     "Helvetica Neue",
     'TeXGyreHerosRegular',
@@ -865,24 +838,14 @@ max-width: 450px;
 background-color:transparent;
   margin: 0;
   padding:0;
-  color: #F78E1E;
- 
-       text-shadow: .5px .5px .5px #000;
+  color: #f8f6f2;
+ text-shadow: .5px .5px .5px #000;
 
 
 }
 
 
-
-
-
 }
-
-
-
-
-
-
 
 
 
@@ -1509,7 +1472,7 @@ picture.js-background-image {
 
 .material-icons {
 
-  font-size: 18px !important;
+/*  font-size: 18px !important; */
 }
 
 .mdc-toolbar__row {
@@ -1554,6 +1517,14 @@ z-index: 11 !important;
 color: #F78E1E !important;
 
 }
+
+
+.mdc-toolbar__icon:last-of-type {
+  height: 62px;
+  padding-right: 16px;
+  padding-top: 6px !important;
+}
+
 
 
 .mdc-toolbar__title {
