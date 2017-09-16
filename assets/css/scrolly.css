@@ -1053,26 +1053,15 @@ background-color:transparent;
   display: block;
   text-transform: uppercase;
   color: #fff;
-  font-size: 2.2em;
-
-
-  font-family: "MyriadPro-Bold","HelveticaNeueLight",
-    "HelveticaNeue-Light",
-    "Helvetica Neue Light",
-    "HelveticaNeue",
-    "Helvetica Neue",
-    'TeXGyreHerosRegular',
-    "Helvetica",
-    "Tahoma",
-    "Geneva",
-    "Arial",
-    sans-serif;
-  font-weight: 800;
-width: 60%;
-min-width:280px;
-max-width:300px;
-  margin-bottom: 0;
-    margin-top: 53vh;
+    font-size: 36px;
+    font-family: "MyriadPro-Bold","HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 800;
+    width: 60%;
+    min-width: 280px;
+    max-width: 405px;
+    margin-bottom: 0;
+    margin-top: 44vh;
+  
   margin-left: 0;
   padding: 1em;
   text-align: left;
@@ -1105,26 +1094,15 @@ top:0;
   display: block;
   text-transform: uppercase;
   color: #fff;
-  font-size: 2.4em;
-
-
-  font-family: "MyriadPro-Bold","HelveticaNeueLight",
-    "HelveticaNeue-Light",
-    "Helvetica Neue Light",
-    "HelveticaNeue",
-    "Helvetica Neue",
-    'TeXGyreHerosRegular',
-    "Helvetica",
-    "Tahoma",
-    "Geneva",
-    "Arial",
-    sans-serif;
-  font-weight: 800;
-width: 60%;
-min-width:280px;
-max-width:405px;
-  margin-bottom: 0;
-    margin-top: 53vh;
+    font-size: 42px;
+    font-family: "MyriadPro-Bold","HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 800;
+    width: 60%;
+    min-width: 280px;
+    max-width: 405px;
+    margin-bottom: 0;
+    margin-top: 46vh;
+  
   margin-left: 0;
   padding: 1em;
   text-align: left;
@@ -1157,28 +1135,14 @@ top:0;
   display: block;
   text-transform: uppercase;
   color: #fff;
-  font-size: 2.9em;
-right:0;
-top:0;
-
-  font-family: "MyriadPro-Bold","HelveticaNeueLight",
-    "HelveticaNeue-Light",
-    "Helvetica Neue Light",
-    "HelveticaNeue",
-    "Helvetica Neue",
-    'TeXGyreHerosRegular',
-    "Helvetica",
-    "Tahoma",
-    "Geneva",
-    "Arial",
-    sans-serif;
-  font-weight: 800;
-width: 60%;
-min-width:280px;
-max-width:525px;
-  margin-bottom: 0;
-    margin-top: 53vh;
-
+    font-size: 48px;
+    font-family: "MyriadPro-Bold","HelveticaNeueLight", "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+    font-weight: 800;
+    width: 60%;
+    min-width: 280px;
+    max-width: 405px;
+    margin-bottom: 0;
+    margin-top: 46vh;
   margin-left: 0;
   padding: 1em;
   text-align: left;
