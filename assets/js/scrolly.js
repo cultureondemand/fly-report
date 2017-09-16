@@ -142,7 +142,9 @@ var scrollVis = function() {
     logoOpener.setAttribute("style", "display:inline-block; ");
 
 
-    
+    var covermenu = document.getElementById("covermenu");
+    covermenu.setAttribute("style", "display:inline-block; ");
+
 
  
 
@@ -170,6 +172,8 @@ var scrollVis = function() {
     var scrollimg = document.getElementById("scrollimg");
     scrollimg.setAttribute("style", "display:none; ");
 
+    var covermenu = document.getElementById("covermenu");
+    covermenu.setAttribute("style", "display:none; ");
 
     var logobar = document.getElementById("logobar");
     logobar.setAttribute("style", "display:inline-block; ");
