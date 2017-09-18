@@ -442,6 +442,6 @@ function onResize(h) {
   var height = window.windowHeight;
   var width = window.windowWidth;
 
-  var eBG = document.getElementById("bg" + h);
- ///////eBG.style.height = eBG.parentElement.clientHeight;
+  var eBG = document.getElementById("step-content" + h);
+ eBG.style.height = eBG.parentElement.clientHeight;
 }
