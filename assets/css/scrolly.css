@@ -1685,13 +1685,26 @@ padding-top: 56.25%; /* the % of padding will calculate by width */
 position:relative; /* as it childern's(img here) position's anchor */ 
 border: 0; /* just to illustrate margin */
 display: inline-block;
-}.imgwrapperF { 
+}
+
+.imgwrapperF { 
 width: 100%;/* % of width */
 padding-top: 46.25%; /* the % of padding will calculate by width */
 position:relative; /* as it childern's(img here) position's anchor */ 
 border: 0; /* just to illustrate margin */
 display: inline-block;
 }
+
+
+.socialwrapper { 
+width: 10%;
+    padding-top: 5%;
+    position: relative;
+    border: 0;
+    display: inline-block;
+}
+
+
 
 .reportimg {
 /* make the image inside the padding space */
