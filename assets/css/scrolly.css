@@ -937,7 +937,7 @@ background-color:transparent;
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   .step {
-    margin-bottom: 96%;
+    margin-bottom: 96vh;
     font-family: "ChaparralPro-Regular", Georgia, Times, "Times New Roman", serif;
     font-size: 1.1em;
     line-height: 1.4em;
