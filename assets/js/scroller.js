@@ -105,7 +105,7 @@ function scroller() {
   
  
 
-    var pos = window.pageYOffset - 210 - containerStart;
+    var pos = window.pageYOffset + 296 - containerStart;
 
 
 
