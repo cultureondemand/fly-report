@@ -266,7 +266,7 @@ Your friendly, caring presence means a lot!
 Fresh Lifelines for Youth (FLY)<br /> 
 
 <a href="https://www.facebook.com/flyprogram" class="social-icon" aria-label="Facebook" alt="Facebook">
-
+<div class='imgwrapperE'>
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
 <g>
@@ -277,6 +277,8 @@ Fresh Lifelines for Youth (FLY)<br />
 </svg>
 
 </a>
+</div>
+<div class='imgwrapperE'>
           
 <a href="https://twitter.com/FLYprogram_org" class="social-icon" aria-label="Twitter" alt="Twitter">
 
@@ -298,6 +300,8 @@ Fresh Lifelines for Youth (FLY)<br />
 </svg>
 
 </a>
+</div>
+<div class='imgwrapperE'>
 
           
 <a href="https://twitter.com/FLYprogram_org" class="social-icon" aria-label="Instagram" alt="Instagram">
@@ -331,7 +335,9 @@ Fresh Lifelines for Youth (FLY)<br />
 </svg>
 </a>
 
-          
+ </div>
+<div class='imgwrapperE'>
+         
 <a href="https://www.youtube.com/user/FLYprogram" class="social-icon" aria-label="YouTube" alt="YouTube">
 
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -364,6 +370,8 @@ Fresh Lifelines for Youth (FLY)<br />
 </g>
 </svg>
 </a>
+</div>
+<div class='imgwrapperE'>
 
           
 <a href="https://www.linkedin.com/company-beta/392300/admin/updates/" class="social-icon" aria-label="LinkedIn" alt="LinkedIn">
@@ -382,6 +390,8 @@ Fresh Lifelines for Youth (FLY)<br />
 </g>
 </svg>
 </a>
+</div>
+ 
 
 <br />
  `
