@@ -360,6 +360,65 @@
 
 <!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
 <!-- |||||||||||| Preloader ||||||||||||||||||||||||||||||||||||||| -->
+  
+  
+  
+
+
+
+
+
+
+
+
+  <!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+<!-- |||||||||||| Preloader ||||||||||||||||||||||||||||||||||||||| -->
+
+<div class="hidden">
+  <script type="text/javascript">
+ 
+if ('scrollRestoration' in history) {
+  history.scrollRestoration = 'manual';
+}
+ 
+      var images = new Array()
+      function preload() {
+        for (i = 0; i < preload.arguments.length; i++) {
+          images[i] = new Image()
+          images[i].src = preload.arguments[i]
+        }
+        
+      }
+images.onload = notify();
+      function notify()  {
+        setTimeout(function(){ 
+          document.getElementById('play').style.display = 'none'; 
+ 
+ 
+        }, 3000);
+       
+}
+      preload(
+        "assets/images/bkg/1-Cover-large.jpg",
+        "assets/images/bkg/10-Program-large.jpg",
+        "assets/images/bkg/9-Retreat2-large.jpg",
+        "assets/images/bkg/9-Retreat-large.jpg",
+        "assets/images/bkg/2-WhyYourInvestment-large.jpg",
+        "assets/images/bkg/2-Cover-large.jpg",
+        "assets/images/bkg/14-Donors-large.jpg",
+        "assets/images/bkg/14-Donors-Content-large.jpg",
+        "assets/images/bkg/13-SystemReform2-large.jpg",
+        "assets/images/bkg/12-Expansion-large.jpg",
+        "assets/images/bkg/11-Prevention-large.jpg",
+        "assets/images/bkg/10-Program-large.jpg",
+        "assets/images/bkg/10-Program2-large.jpg"
+      )
+     
+  </script>
+  
+  
+  
+  
 
 <div class="hidden">
   <script type="text/javascript">
