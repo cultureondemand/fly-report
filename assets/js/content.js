@@ -268,7 +268,7 @@ Fresh Lifelines for Youth (FLY)<br />
 <a href="https://www.facebook.com/flyprogram" class="social-icon" aria-label="Facebook" alt="Facebook">
 <div class='imgwrapperE'>
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+	 width="40px" height="40px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
 <g>
 	<path id="Facebook__x28_alt_x29_" d="M90,15.001C90,7.119,82.884,0,75,0H15C7.116,0,0,7.119,0,15.001v59.998
 		C0,82.881,7.116,90,15.001,90H45V56H34V41h11v-5.844C45,25.077,52.568,16,61.875,16H74v15H61.875C60.548,31,59,32.611,59,35.024V41
@@ -283,7 +283,7 @@ Fresh Lifelines for Youth (FLY)<br />
 <a href="https://twitter.com/FLYprogram_org" class="social-icon" aria-label="Twitter" alt="Twitter">
 
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="40.117px" height="40.117px" viewBox="0 0 40.117 40.117" style="enable-background:new 0 0 40.117 40.117;"
+	 width="40px" height="40px" viewBox="0 0 430.117 430.117" style="enable-background:new 0 0 430.117 430.117;"
 	 xml:space="preserve">
 <g>
 	<path id="Twitter__x28_alt_x29_" d="M381.384,198.639c24.157-1.993,40.543-12.975,46.849-27.876
@@ -305,34 +305,7 @@ Fresh Lifelines for Youth (FLY)<br />
 
           
 <a href="https://twitter.com/FLYprogram_org" class="social-icon" aria-label="Instagram" alt="Instagram">
-
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
-<g>
-	<g>
-		<path d="M296.8,219.8c-10-14-26.4-23.2-44.8-23.2c-18.4,0-34.8,9.2-44.8,23.2c-6.4,9.2-10.4,20.4-10.4,32.4
-			c0,30.4,24.8,55.2,55.2,55.2c30.4,0,55.2-24.8,55.2-55.2C307.2,240.2,303.2,229,296.8,219.8z"/>
-	</g>
-</g>
-<g>
-	<g>
-		<path d="M331.6,220.2c4,8,6.4,20.8,6.4,32c0,47.2-38.4,86-86,86c-47.6,0-86-38.4-86-86c0-11.6,2.4-24,6.4-32H124v128.4
-			c0,16.8,14.8,31.6,31.6,31.6h192.8c16.8,0,31.6-14.8,31.6-31.6V220.2H331.6z"/>
-	</g>
-</g>
-<g>
-	<g>
-		<polygon points="365.6,131.4 319.2,131.4 319.2,184.6 372,184.6 372,138.2 372,131 		"/>
-	</g>
-</g>
-<g>
-	<g>
-		<path d="M377.6,0.2H126.4C56.8,0.2,0,57,0,126.6v251.6c0,69.2,56.8,126,126.4,126H378c69.6,0,126.4-56.8,126.4-126.4V126.6
-			C504,57,447.2,0.2,377.6,0.2z M408,219.8L408,219.8l0,128.8c0,33.6-26,59.6-59.6,59.6H155.6c-33.6,0-59.6-26-59.6-59.6V219.8v-64
-			c0-33.6,26-59.6,59.6-59.6h192.8c33.6,0,59.6,26,59.6,59.6V219.8z"/>
-	</g>
-</g>
-</svg>
+ 
 </a>
 
  </div>
@@ -341,7 +314,7 @@ Fresh Lifelines for Youth (FLY)<br />
 <a href="https://www.youtube.com/user/FLYprogram" class="social-icon" aria-label="YouTube" alt="YouTube">
 
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="40px" height="40px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+	 width="40px" height="40px" viewBox="0 0 90 90" style="enable-background:new 0 0 90 90;" xml:space="preserve">
 <g>
 	<path id="YouTube" d="M70.939,65.832H66l0.023-2.869c0-1.275,1.047-2.318,2.326-2.318h0.315c1.282,0,2.332,1.043,2.332,2.318
 		L70.939,65.832z M52.413,59.684c-1.253,0-2.278,0.842-2.278,1.873V75.51c0,1.029,1.025,1.869,2.278,1.869
@@ -376,7 +349,7 @@ Fresh Lifelines for Youth (FLY)<br />
           
 <a href="https://www.linkedin.com/company-beta/392300/admin/updates/" class="social-icon" aria-label="LinkedIn" alt="LinkedIn">
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="40.117px" height="40.118px" viewBox="0 0 40.117 40.118" style="enable-background:new 0 0 40.117 40.118;"
+	 width="430.117px" height="430.118px" viewBox="0 0 430.117 430.118" style="enable-background:new 0 0 430.117 430.118;"
 	 xml:space="preserve">
 <g>
 	<path id="LinkedIn__x28_alt_x29_" d="M398.355,0H31.782C14.229,0,0.002,13.793,0.002,30.817v368.471
