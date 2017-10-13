@@ -405,16 +405,16 @@ function display() {
 
     ////////////////document.body.style.backgroundImage = "url("+index+".jpg)";
 
-    d3.selectAll("#container" + index).style("display", function(d, i) {
-      return i == index ? "none" : "inline-block";
+    d3.selectAll("#container" + index).style("visibility", function(d, i) {
+      return i == index ? "hidden" : "visible";
     });
 
-    d3.selectAll("#container" + (index - 1)).style("display", function(d, i) {
-      return i == index ? "inline-block" : "none";
+    d3.selectAll("#container" + (index - 1)).style("visibility", function(d, i) {
+      return i == index ? "visible" : "hidden";
     });
 
     d3.selectAll("#container" + (index + 1)).style("display", function(d, i) {
-      return i == index ? "inline-block" : "none";
+      return i == index ? "visible" : "hidden";
     });
 
     ///////////var getBG = document.getElementById( 'container'+index );
