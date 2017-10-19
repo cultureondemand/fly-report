@@ -79,7 +79,7 @@ function scroller() {
  
   console.log(top);
   console.log(conheight);
-console.log(getBoundingClientRect);
+console.log(this.getBoundingClientRect);
  
 
       if(i === 0) {
