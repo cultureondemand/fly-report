@@ -56,7 +56,9 @@ function scroller() {
     // load.
     d3.timer(function() {
       position();
-      return true;
+   ///  timer.stop();
+       return true;
+
     });
   }
 
@@ -77,15 +79,15 @@ function scroller() {
       var conheight = this.getBoundingClientRect().height;
       
  
-  console.log(top);
-  console.log(conheight);
-console.log(this.getBoundingClientRect);
+//////  console.log(top);
+/////  console.log(conheight);
+
  
 
       if(i === 0) {
         startPos = top;
       }
-      sectionPositions.push((top+conheight+100) - startPos);
+      sectionPositions.push((top+conheight) - startPos);
     });
    containerStart = (container.node().getBoundingClientRect().top + container.node().getBoundingClientRect().height) + window.pageYOffset;  
     containerStartB = container.node().getBoundingClientRect().top + container.node().getBoundingClientRect().height;
@@ -101,13 +103,11 @@ console.log(this.getBoundingClientRect);
    * index.
    *
    */
-  
-  
   function position() {
   
  
 
-    var pos = window.pageYOffset + 166 - containerStart;
+    var pos = window.pageYOffset + 296 - containerStart;
 
 
 
@@ -127,9 +127,6 @@ console.log(this.getBoundingClientRect);
     dispatch.progress(currentIndex, progress);
 
   }
-  
-  
-  
 
   /**
    * container - get/set the parent element
