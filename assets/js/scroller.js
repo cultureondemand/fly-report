@@ -101,12 +101,13 @@ function scroller() {
    * index.
    *
    */
+  
+  
   function position() {
   
  
-var pos = window.pageYOffset + 96 - containerStart;
-    
-    ////////////////////var pos = window.pageYOffset - 116 - containerStart;
+
+    var pos = window.pageYOffset + 296 - containerStart;
 
 
 
@@ -126,6 +127,9 @@ var pos = window.pageYOffset + 96 - containerStart;
     dispatch.progress(currentIndex, progress);
 
   }
+  
+  
+  
 
   /**
    * container - get/set the parent element
