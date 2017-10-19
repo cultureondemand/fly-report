@@ -937,7 +937,7 @@ background-color:transparent;
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
   .step {
-    margin-bottom: 96vh;
+    margin-bottom: 116vh;
     font-family: "ChaparralPro-Regular", Georgia, Times, "Times New Roman", serif;
     font-size: 1.1em;
     line-height: 1.4em;
@@ -957,7 +957,7 @@ background-color:transparent;
 /* Tablet Styles */
 @media only screen and (min-width: 401px) and (max-width: 960px) {
   .step {
-    margin-bottom: 96vh;
+    margin-bottom: 116vh;
     font-family: "ChaparralPro-Regular", Georgia, Times, "Times New Roman", serif;
     font-size: 1.1em;
     line-height: 1.5em;
@@ -976,7 +976,7 @@ background-color:transparent;
 /* Desktop Styles */
 @media only screen and (min-width: 961px) {
   .step {
-    margin-bottom: 96vh;
+    margin-bottom: 116vh;
     font-family: "ChaparralPro-Regular", Georgia, Times, "Times New Roman", serif;
     font-size: 1.3em;
     line-height: 1.7em;
