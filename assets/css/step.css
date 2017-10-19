@@ -27,7 +27,7 @@
  .step-content {
 /*max-width: 800px; */
 width:90%;
-margin: 0 auto 20vh;
+margin: 0 auto 0 auto;
  background-color: #fff;
 position: relative;
 padding: 12px 22px 12px 40px;
@@ -47,7 +47,7 @@ z-index: 99999999999;
  .step-content {
 /*max-width: 800px; */
 width:90%;
-margin: 0 auto 20vh;
+margin: 0 auto 0 auto;
  background-color: #fff;
 position: relative;
 padding: 12px 40px 12px 40px;
@@ -67,7 +67,7 @@ z-index: 99999999999;
 .step-content {
 /*max-width: 800px; */
 width:90%;
-margin: 0 auto 25vh;
+margin: 0 auto 0 auto;
  background-color: #fff;
 position: relative;
 padding: 12px 72px 12px 106px;
