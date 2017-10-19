@@ -124,7 +124,7 @@ z-index: 99999999999;
 
 }
 
-.step-content0 {
+#step-content0 {
  max-width: 800px;  
  min-width: 260px;  
  
@@ -145,7 +145,7 @@ z-index: 99999999999;
 
 
 
-.step-content1 {
+#step-content1 {
   max-width: 800px;  
   min-width: 260px;  
  
@@ -164,7 +164,7 @@ color:#fff;
 
 
 
-.step-content2 {
+#step-content2 {
    max-width: 800px; 
   min-width: 260px;  
  
@@ -185,7 +185,7 @@ color:#fff;
 
 
 
-.step-content3 {
+#step-content3 {
   max-width: 800px;  
   min-width: 260px;  
  
@@ -201,7 +201,7 @@ color:#fff;
 
 
 
-.step-content4 {
+#step-content4 {
   max-width: 800px;  
    min-width: 260px;  
  
@@ -219,7 +219,7 @@ color:#fff;
 
  
 
-.step-content5 {
+#step-content5 {
   max-width: 800px;  
   min-width: 280px;  
  color:#fff;
@@ -238,7 +238,7 @@ color:#fff;
 
 
 
-.step-content6 {
+#step-content6 {
   max-width: 800px;  
   min-width: 280px;  
  
@@ -259,7 +259,7 @@ color:#fff;
 
 
 
-.step-content7 {
+#step-content7 {
   max-width: 800px;  
   min-width: 280px;  
  
@@ -279,7 +279,7 @@ color:#fff;
 
 
 
-.step-content8 {
+#step-content8 {
   max-width: 800px;  
   min-width: 280px;  
  
@@ -297,7 +297,7 @@ color:#fff;
 
 
 
-.step-content9 {
+#step-content9 {
   max-width: 800px;  
   min-width: 280px;  
  
@@ -314,26 +314,7 @@ color:#fff;
 
 
 
-.step-content10 {
-  max-width: 800px;  
-  min-width: 280px;  
- 
-
-
-     font-style: normal;
-    font-weight: 400;
- background-color:rgba(109, 88, 51,.9);
-     color: #fff;
-       overflow: hidden;
-
-
-
-}
-
-
-
-
-.step-content11 {
+#step-content10 {
   max-width: 800px;  
   min-width: 280px;  
  
@@ -352,7 +333,26 @@ color:#fff;
 
 
 
-.step-content12 {
+#step-content11 {
+  max-width: 800px;  
+  min-width: 280px;  
+ 
+
+
+     font-style: normal;
+    font-weight: 400;
+ background-color:rgba(109, 88, 51,.9);
+     color: #fff;
+       overflow: hidden;
+
+
+
+}
+
+
+
+
+#step-content12 {
  max-width: 800px;  
   min-width: 280px;  
  
@@ -370,7 +370,7 @@ color:#fff;
 
 
 
-.step-content13 {
+#step-content13 {
  max-width: 800px;  
   min-width: 280px;  
  
