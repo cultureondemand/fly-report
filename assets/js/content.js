@@ -184,7 +184,7 @@ African-American youth in our Court Appointed Friend and Advocate (CAFA) program
     },
     body: `<h5>All FLY Youth</h5>
 
-    <div class='imgwrapperE'><img class='reportimg' src='assets/images/5-Outcomes-1-large.png' border='0' alt='Cycle of Quality' width='725' height='408' class='full'></div>
+    <div class='imgwrapperA'><img class='reportimg' src='assets/images/5-Outcomes-1-large.png' border='0' alt='Cycle of Quality' height='408' class='full'></div>
 
 
 <!-- 
@@ -194,7 +194,7 @@ African-American youth in our Court Appointed Friend and Advocate (CAFA) program
 
     <h5>Leadership Youth</h5>
 
-    <div class='imgwrapperE'><img class='reportimg' src='assets/images/6-Outcomes-2-large.png' border='0' alt='Cycle of Quality' width='725' height='408' class='full'></div>
+    <div class='imgwrapperA'><img class='reportimg' src='assets/images/6-Outcomes-2-large.png' border='0' alt='Cycle of Quality' height='408' class='full'></div>
 
 
 
