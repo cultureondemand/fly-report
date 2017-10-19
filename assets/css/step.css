@@ -127,23 +127,12 @@ z-index: 99999999999;
 .step-content0 {
  max-width: 800px;  
  min-width: 260px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
-
+ 
 
      font-style: normal;
     font-weight: 400;
     background-color: #fff;
-    height: 100%;
-    color: #000;
+     color: #000;
        overflow: hidden;
 
 
@@ -159,23 +148,13 @@ z-index: 99999999999;
 .step-content1 {
   max-width: 800px;  
   min-width: 260px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
+ 
 color:#fff;
 
      font-style: normal;
     font-weight: 400;
  background-color:rgba(185, 130, 199,.9);
-     height: 100%;
-
+ 
        overflow: hidden;
 
 
@@ -188,23 +167,12 @@ color:#fff;
 .step-content2 {
    max-width: 800px; 
   min-width: 260px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
-
+ 
 
      font-style: normal;
     font-weight: 400;
     background-color: #fff;
-    height: 100%;
-    color: #000;
+     color: #000;
        overflow: hidden;
 
 
@@ -220,23 +188,11 @@ z-index: 99999999999;
 .step-content3 {
   max-width: 800px;  
   min-width: 260px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
-
-
+ 
      font-style: normal;
     font-weight: 400;
     background-color: #fff;
-    height: 100%;
-    color: #000;
+     color: #000;
        overflow: hidden;
 
 
@@ -248,23 +204,12 @@ z-index: 99999999999;
 .step-content4 {
   max-width: 800px;  
    min-width: 260px;  
- width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
-
+ 
 
      font-style: normal;
     font-weight: 400;
     background-color: #fff;
-    height: 100%;
-    color: #000;
+     color: #000;
        overflow: hidden;
 
 
@@ -277,23 +222,12 @@ z-index: 99999999999;
 .step-content5 {
   max-width: 800px;  
   min-width: 280px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
-color:#fff;
+ color:#fff;
 
      font-style: normal;
     font-weight: 400;
  background-color:rgba(94, 41, 78,.9);
-     height: 100%;
-
+ 
        overflow: hidden;
 
 
@@ -307,23 +241,13 @@ color:#fff;
 .step-content6 {
   max-width: 800px;  
   min-width: 280px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
+ 
 color:#fff;
 
      font-style: normal;
     font-weight: 400;
  background-color:rgba(94, 41, 78,.9);
-     height: 100%;
-
+ 
        overflow: hidden;
 
 
@@ -338,23 +262,13 @@ color:#fff;
 .step-content7 {
   max-width: 800px;  
   min-width: 280px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
+ 
 
 
      font-style: normal;
     font-weight: 400;
  background-color:rgba(109, 88, 51,.9);
-    height: 100%;
-    color: #fff;
+     color: #fff;
        overflow: hidden;
 
 
@@ -368,23 +282,12 @@ z-index: 99999999999;
 .step-content8 {
   max-width: 800px;  
   min-width: 280px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
-
+ 
 
      font-style: normal;
     font-weight: 400;
  background-color:rgba(109, 88, 51,.9);
-    height: 100%;
-    color: #fff;
+     color: #fff;
        overflow: hidden;
 
 
@@ -397,23 +300,11 @@ z-index: 99999999999;
 .step-content9 {
   max-width: 800px;  
   min-width: 280px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
-
-
+ 
      font-style: normal;
     font-weight: 400;
  background-color:rgba(109, 88, 51,.9);
-    height: 100%;
-    color: #fff;
+     color: #fff;
        overflow: hidden;
 
 
@@ -426,23 +317,13 @@ z-index: 99999999999;
 .step-content10 {
   max-width: 800px;  
   min-width: 280px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
+ 
 
 
      font-style: normal;
     font-weight: 400;
  background-color:rgba(109, 88, 51,.9);
-    height: 100%;
-    color: #fff;
+     color: #fff;
        overflow: hidden;
 
 
@@ -455,23 +336,13 @@ z-index: 99999999999;
 .step-content11 {
   max-width: 800px;  
   min-width: 280px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
+ 
 
 
      font-style: normal;
     font-weight: 400;
  background-color:rgba(109, 88, 51,.9);
-    height: 100%;
-    color: #fff;
+     color: #fff;
        overflow: hidden;
 
 
@@ -484,23 +355,12 @@ z-index: 99999999999;
 .step-content12 {
  max-width: 800px;  
   min-width: 280px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
-
+ 
 
      font-style: normal;
     font-weight: 400;
     background-color: #fff;
-    height: 100%;
-    color: #000;
+     color: #000;
        overflow: hidden;
 
 
@@ -513,23 +373,11 @@ z-index: 99999999999;
 .step-content13 {
  max-width: 800px;  
   min-width: 280px;  
-  width:90%;
-margin: 80vh 0 0 42px;
-    padding:18px;
-position: relative;
-z-index: 99999999999;
-      -webkit-border-top-right-radius: 66px;
-    -webkit-border-bottom-left-radius: 66px;
-    -moz-border-top-right-radius: 66px;
-    -moz-border-bottom-left-radius: 66px;  
-
-
-
+ 
      font-style: normal;
     font-weight: 400;
     background-color: #fff;
-    height: 100%;
-    color: #000;
+     color: #000;
        overflow: hidden;
 
 
