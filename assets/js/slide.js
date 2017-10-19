@@ -122,7 +122,12 @@
     this.icon = createIcon(config.data.icon);
 
     this.content = document.createElement("div");
-    this.content.className = "step-content"+this.id;
+    this.content.className = "step-content";
+    
+    this.content.setAttribute("id", "step-content-" + this.id);
+
+  ////////////////  this.content.className = "step-content"+this.id;
+    
     !!this.header && this.content.appendChild(this.header);
     this.content.appendChild(this.body);
 
