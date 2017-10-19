@@ -443,5 +443,5 @@ function onResize(h) {
   var width = window.windowWidth;
 
   var eBG = document.getElementById("step-content" + h);
- eBG.style.height = eBG.parentElement.clientHeight;
+////// eBG.style.height = eBG.parentElement.clientHeight;
 }
