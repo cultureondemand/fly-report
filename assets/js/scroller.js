@@ -7,7 +7,7 @@
  */
 function scroller() {
   var windowHeight;
-  var container = d3.select('body');
+  var container = d3.select('#sections');
   // event dispatcher
   var dispatch = d3.dispatch("active", "progress");
 
@@ -25,6 +25,9 @@ function scroller() {
   var containerStart = 0;
   var containerStartB = 0;
   var yyy;
+  
+  var startspot = 0;
+  
   var conheight;
   /**
    * scroll - constructor function.
@@ -112,7 +115,7 @@ function scroller() {
   
  
 
-    var pos = window.pageYOffset + 296 - containerStart;
+    var pos = window.pageYOffset + 196 - containerStart;
 
 
 
