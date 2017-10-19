@@ -79,7 +79,7 @@ function scroller() {
  
   console.log(top);
   console.log(conheight);
-
+console.log(getBoundingClientRect);
  
 
       if(i === 0) {
@@ -107,7 +107,7 @@ function scroller() {
   
  
 
-    var pos = window.pageYOffset + 66 - containerStart;
+    var pos = window.pageYOffset + 166 - containerStart;
 
 
 
