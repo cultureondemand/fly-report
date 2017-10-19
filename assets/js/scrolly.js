@@ -186,8 +186,8 @@ var scrollVis = function() {
 
 
 
-    var container1 = document.getElementById("container-1");
-    container1.setAttribute("style", "visibility:visible; ");
+   var container1 = document.getElementById("container-1");
+    container1.setAttribute("style", "visibility:hidden; ");
 
 
  
@@ -202,8 +202,8 @@ var scrollVis = function() {
   function showTitle2() {
   
   
-   var container1 = document.getElementById("container-1");
-    container1.setAttribute("style", "visibility:hidden; ");
+    var container1 = document.getElementById("container-1");
+    container1.setAttribute("style", "visibility:visible; ");
 
 
  
@@ -217,7 +217,16 @@ var scrollVis = function() {
   /**
    *
    */
-  function showTitle3() {}
+  function showTitle3() {
+  
+  
+  
+   var container1 = document.getElementById("container-1");
+    container1.setAttribute("style", "visibility:hidden; ");
+
+
+  
+  }
 
   ///////
   ///////
