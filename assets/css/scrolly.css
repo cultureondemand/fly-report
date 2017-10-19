@@ -1689,7 +1689,9 @@ display: inline-block;
 
 .imgwrapperF { 
 width: 100%;/* % of width */
-padding-top: 46.25%; /* the % of padding will calculate by width */
+/////////////  padding-top: 46.25%; /* the % of padding will calculate by width */
+
+padding-top: 6.25%; /* the % of padding will calculate by width */
 position:relative; /* as it childern's(img here) position's anchor */ 
 border: 0; /* just to illustrate margin */
 display: inline-block;
