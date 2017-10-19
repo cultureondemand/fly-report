@@ -72,6 +72,11 @@ function scroller() {
     // sectionPositions will be each sections
     // starting position relative to the top
     // of the first section.
+    
+      var height = window.windowHeight;
+  var width = window.windowWidth;
+
+
     sectionPositions = [];
     var startPos;
     sections.each(function(d,i) {
