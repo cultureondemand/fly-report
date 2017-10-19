@@ -20,7 +20,7 @@ You made it possible for FLY to sit at the tables where key collaborations were 
 This is the power we have in working together. I’m profoundly grateful to all of you — our donors, funders, government and community partners, Board members, staff, and volunteers — for making this amazing journey possible. We look forward to the continued work ahead with gratitude and excitement!
 <span class='imgcontainerB'>
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 602.9 136.3" style="enable-background:new 0 0 602.9 136.3;" xml:space="preserve" height="100">
+	 viewBox="0 0 602.9 136.3" style="enable-background:new 0 0 602.9 136.3;" xml:space="preserve" height="100px">
 <g>
 	<path d="M593.4,79.2c0.1,1.7,0.6,3.4,0.2,4.9c-2.4,10.5-5.3,20.7-14.5,27.7c-3.3,2.5-6.9,3.9-11,4.2c-10,0.6-18.4-3-25.6-9.7
 		c-7.5-7-12.1-15.5-14.2-25.5c-0.9-4-1.4-8.2-4.4-12c-1.8,2-3.4,3.9-5.1,5.8c-3.7,4-7.3,7.9-11,11.9c-0.8,0.8-1.7,1.5-2.7,1.9
