@@ -205,7 +205,7 @@ African-American youth in our Court Appointed Friend and Advocate (CAFA) program
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p><p>&nbsp;</p> 
+ 
 
 `
   },
@@ -231,7 +231,7 @@ African-American youth in our Court Appointed Friend and Advocate (CAFA) program
     <p>FLY received a clean, unqualified audit for FY 2015-2016. This is the highest level of assurance an audit firm can issue. 
     <a href='http://flyprogram.org/about/financials/' target='_blank'>Find our Audited Financials and IRS Form 990 on our website</a>.
 
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>`
+<p>&nbsp;</p> `
 
    },
   {
@@ -259,7 +259,7 @@ Carlos, a FLY youth who participated in Santa Clara County’s Leadership Retrea
 Every Leadership Training Program group selects its own community service projects at the retreat that kicks off the program year. The Leadership youth below boxed groceries for struggling families at Sacred Heart Community Service in San Jose.
 
 <p>&nbsp;</p>
-<p>&nbsp;</p><p>&nbsp;</p> `
+  `
   },
 
     {
@@ -304,7 +304,7 @@ the Santa Clara County Probation Department, we launched the Youth Advisory Coun
     body:`
 <span class='bigwhite'>Expansion</span>  —  You can now find FLY programs in 23 cities across the Bay Area, with more to come.  
 <p>&nbsp;</p>
-<p>&nbsp;</p><p>&nbsp;</p> `
+  `
 
   }
 
