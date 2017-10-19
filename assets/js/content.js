@@ -191,7 +191,7 @@ African-American youth in our Court Appointed Friend and Advocate (CAFA) program
       large: "2-WhyYourInvestment-large.jpg"
     },
     body: `<h5>All FLY Youth</h5>
-
+<!-- 
     <div class='imgwrapperA'><img class='reportimg' src='assets/images/5-Outcomes-1-large.png' border='0' alt='Cycle of Quality' width='790' height='558' class='full'></div>
  
 
@@ -199,11 +199,17 @@ African-American youth in our Court Appointed Friend and Advocate (CAFA) program
 
     <div class='imgwrapperA'><img class='reportimg' src='assets/images/6-Outcomes-2-large.png' border='0' alt='Cycle of Quality' width='790' height='513' class='full'></div>
 
-
+-->
  
 
     FLY received a clean, unqualified audit for FY 2015-2016. This is the highest level of assurance an audit firm can issue. 
-    <a href='http://flyprogram.org/about/financials/' target='_blank'>Find our Audited Financials and IRS Form 990 on our webite.`
+    <a href='http://flyprogram.org/about/financials/' target='_blank'>Find our Audited Financials and IRS Form 990 on our webite.
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+`
   },
   
 
@@ -219,11 +225,13 @@ African-American youth in our Court Appointed Friend and Advocate (CAFA) program
       large: "2-WhyYourInvestment-large.jpg"
     },
     body:`<h5>Revenue</h5>
+
+<!-- 
     <div class='imgwrapperA'><img class='reportimg' src='assets/images/7-Financials-1-large.png' border='0' alt='Cycle of Quality' width='600' height='434' class='full'></div>
 <h5>Expenses</h5>
     <div class='imgwrapperA'><img class='reportimg' src='assets/images/8-Financials-2-large.png' border='0' alt='Cycle of Quality' width='600' height='479' class='full'></div>
     <p>FLY received a clean, unqualified audit for FY 2015-2016. This is the highest level of assurance an audit firm can issue. 
-    <a href='http://flyprogram.org/about/financials/' target='_blank'>Find our Audited Financials and IRS Form 990 on our website</a>.`
+    <a href='http://flyprogram.org/about/financials/' target='_blank'>Find our Audited Financials and IRS Form 990 on our website</a>.--> <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>`
 
    },
   {
