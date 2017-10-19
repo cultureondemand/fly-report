@@ -145,6 +145,9 @@ var scrollVis = function() {
     var covermenu = document.getElementById("covermenu");
     covermenu.setAttribute("style", "display:inline-block; ");
 
+ var container1 = document.getElementById("container-1");
+    container1.setAttribute("style", "visibility:hidden; ");
+
 
  
 
@@ -183,7 +186,11 @@ var scrollVis = function() {
 
 
 
-   
+    var container1 = document.getElementById("container-1");
+    container1.setAttribute("style", "visibility:visible; ");
+
+
+ 
  
   }
 
@@ -192,7 +199,17 @@ var scrollVis = function() {
    *
    */
 
-  function showTitle2() {}
+  function showTitle2() {
+  
+  
+   var container1 = document.getElementById("container-1");
+    container1.setAttribute("style", "visibility:hidden; ");
+
+
+ 
+  
+  
+  }
 
   /////////////
   //////////
