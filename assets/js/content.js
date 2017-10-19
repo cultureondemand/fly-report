@@ -18,7 +18,8 @@ Over the years, you’ve sparked change for thousands of individual youth and th
 You made it possible for FLY to sit at the tables where key collaborations were formed that enabled us to support system reforms and suggest strategies to reduce juvenile violence, crime, and incarceration. We were then able to play an important role in putting these ideas into action.  </p>
 <P>
 This is the power we have in working together. I’m profoundly grateful to all of you — our donors, funders, government and community partners, Board members, staff, and volunteers — for making this amazing journey possible. We look forward to the continued work ahead with gratitude and excitement!
-<span class='imgcontainerB'>
+
+
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 602.9 136.3" style="enable-background:new 0 0 602.9 136.3;" xml:space="preserve" height="100px">
 <g>
@@ -110,8 +111,9 @@ This is the power we have in working together. I’m profoundly grateful to all 
 	<path d="M387.2,24c1.2-0.7,2.5-1.3,3.7-2c0.1,0.3,0.2,0.7,0.3,1c-1.4,0.3-2.8,0.6-4.2,0.8C387.1,23.9,387.2,24,387.2,24z"/>
 </g>
 </svg>
-<!-- <img src='assets/images/2-signature-01.svg' border='0' width='90%' alt='
-Christa Gannon'> --></span>
+<!-- <span class='imgcontainerB'>
+</span> <img src='assets/images/2-signature-01.svg' border='0' width='90%' alt='
+Christa Gannon'> -->
 <P>
 Christa Gannon FLY’s Founder and CEO 
     `
