@@ -20,7 +20,13 @@ You made it possible for FLY to sit at the tables where key collaborations were 
 This is the power we have in working together. I’m profoundly grateful to all of you — our donors, funders, government and community partners, Board members, staff, and volunteers — for making this amazing journey possible. We look forward to the continued work ahead with gratitude and excitement!
 
 <p>
-<img src='assets/images/signature.png' border='0' width='310' height='64' alt='Christa Gannon'>
+<span class='imgcontainerB'>
+
+<img src='assets/images/signature.png' border='0' width='300' height='54' alt='Christa Gannon'>
+
+</span>
+
+
 <!-- 
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 602.9 136.3" style="enable-background:new 0 0 602.9 136.3;" xml:space="preserve" height="100px">
